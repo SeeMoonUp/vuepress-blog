@@ -12,17 +12,5 @@ features:
   details: 这里有关于各类技术的总结、架构的思考、源码的探究；帮助你高效研发，线上避坑指北
 - title: 工作思考
   details: 职场混迹，总得有点软技能，进来看看吧
-footer: MIT Licensed | Copyright © 2018-present Evan You
+footer: 网站备案信息：京ICP备18058334号-1
 ---
-
-
-
-
-使用到的网址
-
-vuepress：https://vuepress.vuejs.org/zh/
-
-typro下载地址：http://www.itmind.net/19263.html
-
-图床教程：https://blog.csdn.net/gudeng007/article/details/118254231
-
