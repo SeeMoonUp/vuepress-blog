@@ -3,7 +3,7 @@ home: true
 heroImage: http://img.javalemon.com/typora/home.png
 heroText: 电商的那些事
 tagline: 
-actionText: 开启阅读 ：） →
+actionText: 开卷有益 →
 actionLink: /mall/
 features:
 - title: 电商
