@@ -1,6 +1,7 @@
 module.exports = {
 	title: '电商的那些事',
 	description: '电商的技术架构',
+	port: '8099',
 	themeConfig: {
 		nav: [
 			{text: '首页', link: '/'},
