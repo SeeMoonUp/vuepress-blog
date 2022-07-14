@@ -139,6 +139,7 @@ module.exports = {
 					children: [
 						{title: 'Redis架构解析', path: "/tech/Redis架构解析"},
 						{title: 'Redis哨兵及集群', path: "/tech/Redis哨兵及集群"},
+						{title: 'Redis的key过期处理策略', path: "/tech/Redis的key过期处理策略"},
 						{title: 'Redis数据结构', path: "/"},
 						{title: '问题处理的原则', path: "/"},
 						{title: '解决处理提效手段', path: "/"}
