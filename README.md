@@ -3,7 +3,7 @@ home: true
 heroImage: http://img.javalemon.com/typora/home.png
 heroText: 电商的那些事
 tagline: 
-actionText: 开卷有益 →
+actionText: 持24小时核酸进入 →
 actionLink: /mall/
 features:
 - title: 电商
@@ -14,7 +14,7 @@ features:
   details: 职场混迹，总得有点软技能，进来看看吧
 ---
 
-::: sloot foter
+::: slot footer
 网站备案信息：[京ICP备18058334号-1](https://beian.miit.gov.cn/)
 :::
 
